@@ -5,7 +5,7 @@ import plotly.express as px
 from datetime import datetime
 
 # --- CONFIG & THEME ---
-st.set_page_config(page_title="TickRouteX v2.0", page_icon="⚡", layout="wide")
+st.set_page_config(page_title="TickRouteForYou", page_icon="⚡", layout="wide")
 
 # --- CSS FOR A MODERN LOOK ---
 st.markdown("""
